@@ -17,3 +17,19 @@ print('931', '959', '180', sep='.', end='-')
 print('64')
 
 # E essa foi a aula 2.
+
+'''
+Pergunta 1:
+Qual a saída do comando abaixo:
+
+print('Estou', 'aprendendo', 'Python', sep='-', end=' ')
+print('isso é muito', 'legal', sep='-', end='')
+
+Resposta:
+Estou-aprendendo-Python isso é muito-legal
+'''
+
+print('Estou', 'aprendendo', 'Python', sep='-', end=' ')
+print('isso é muito', 'legal', sep='-')
+
+print('Esse é o fim da aula! Até a próxima!')
